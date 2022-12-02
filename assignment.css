@@ -1,0 +1,32 @@
+img{
+    width: 350px;
+    height:auto;
+    margin: 20px;
+}
+
+h1{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 48px;
+    color: black;
+
+    border-bottom: 5px;
+    border-bottom-style: solid;
+
+    padding-bottom: 20px;
+}
+
+p{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.contactform{
+    width:100%;
+    height:auto;
+    background-color: lightskyblue;
+
+    color:black;
+    
+    padding:15px;
+}
